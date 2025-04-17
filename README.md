@@ -22,4 +22,4 @@ Welcome to the **Advanced Face Recognition System** project! This is a React-bas
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/<REPOSITORY_NAME>.git
+https://github.com/ankurjha10/Advance-Face-Recognition.git

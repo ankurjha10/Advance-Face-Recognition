@@ -357,7 +357,7 @@ function App() {
       </div>
 
       <div className="footer">
-        <p>Advanced Face Recognition System | Created by Ankur Jha, Rohit Singh, Kumar Anubhav, Ankur Pathak</p>
+        <p>Advanced Face Recognition System | Created by Ankur Jha</p>
       </div>
     </div>
   );
